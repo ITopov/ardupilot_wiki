@@ -28,6 +28,7 @@ recommended for use with ArduPilot (in alphabetical order).  You may also want t
 * `mRobotics <http://mrobotics.io/>`__
 * `Northox <https://northox.myshopify.com/>`__
 * `ProfiCNC <http://www.proficnc.com/stores>`__
+* `RCcopter <https://rccopter.ru/>`__ (Russia)
 * `RF Design <http://store.rfdesign.com.au/>`__
 * `Skeyetech <http://www.skeyetech-shop.fr/>`__
 * `UnmannedTech UK <https://www.unmannedtechshop.co.uk/>`__
